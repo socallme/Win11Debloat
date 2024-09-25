@@ -20,7 +20,7 @@ Microsoft.MicrosoftJournal
 Microsoft.MicrosoftOfficeHub
 Microsoft.MicrosoftPowerBIForWindows
 Microsoft.MicrosoftSolitaireCollection
-Microsoft.MicrosoftStickyNotes
+#Microsoft.MicrosoftStickyNotes
 Microsoft.MixedReality.Portal
 Microsoft.NetworkSpeedTest
 Microsoft.News
