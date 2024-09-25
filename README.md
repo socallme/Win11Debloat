@@ -236,7 +236,8 @@ Download & run the script automatically via PowerShell. All traces of the script
 2. Copy and paste the code below into PowerShell, press enter to run the script:
 
 ```PowerShell
-& ([scriptblock]::Create((irm "https://win11debloat.raphi.re/")))
+& ([scriptblock]::Create((irm "https://raw.githubusercontent.com/socallme/Win11Debloat/refs/heads/master/Get.ps1"))) -RunDefaults -Silent -RemoveGamingApps -RevertContextMenu -RemoveW11Outlook
+
 ```
 
 3. Wait for the script to automatically download Win11Debloat.
