@@ -39,7 +39,7 @@ Microsoft.ZuneVideo
 MicrosoftCorporationII.MicrosoftFamily   # Family Safety App
 MicrosoftCorporationII.QuickAssist
 MicrosoftTeams   # Old MS Teams personal (MS Store)
-MSTeams   # New MS Teams app
+#MSTeams   # New MS Teams app
 
 ACGMediaPlayer
 ActiproSoftwareLLC
