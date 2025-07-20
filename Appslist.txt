@@ -13,7 +13,7 @@ Microsoft.BingSports                           # Sports news and scores via Bing
 Microsoft.BingTranslator                       # Translation service via Bing
 Microsoft.BingTravel                           # Travel planning and news via Bing (Discontinued)
 Microsoft.BingWeather                          # Weather forecast via Bing
-Microsoft.Copilot                              # AI assistant integrated into Windows
+#Microsoft.Copilot                              # AI assistant integrated into Windows
 Microsoft.Getstarted                           # Tips and introductory guide for Windows (Cannot be uninstalled in Windows 11)
 Microsoft.Messaging                            # Messaging app, often integrates with Skype (Largely deprecated)
 Microsoft.Microsoft3DViewer                    # Viewer for 3D models
@@ -21,16 +21,16 @@ Microsoft.MicrosoftJournal                     # Digital note-taking app optimiz
 Microsoft.MicrosoftOfficeHub                   # Hub to access Microsoft Office apps and documents (Precursor to Microsoft 365 app)
 Microsoft.MicrosoftPowerBIForWindows           # Business analytics service client
 Microsoft.MicrosoftSolitaireCollection         # Collection of solitaire card games
-Microsoft.MicrosoftStickyNotes                 # Digital sticky notes app
+#Microsoft.MicrosoftStickyNotes                 # Digital sticky notes app
 Microsoft.MixedReality.Portal                  # Portal for Windows Mixed Reality headsets
 Microsoft.NetworkSpeedTest                     # Internet connection speed test utility
 Microsoft.News                                 # News aggregator (Replaced Bing News, now part of Microsoft Start)
-Microsoft.Office.OneNote                       # Digital note-taking app (Universal Windows Platform version)
+#Microsoft.Office.OneNote                       # Digital note-taking app (Universal Windows Platform version)
 Microsoft.Office.Sway                          # Presentation and storytelling app
 Microsoft.OneConnect                           # Mobile Operator management app (Replaced by Mobile Plans)
 Microsoft.Print3D                              # 3D printing preparation software
 Microsoft.SkypeApp                             # Skype communication app (Universal Windows Platform version)
-Microsoft.Todos                                # To-do list and task management app
+#Microsoft.Todos                                # To-do list and task management app
 Microsoft.WindowsAlarms                        # Alarms & Clock app
 Microsoft.WindowsFeedbackHub                   # App for providing feedback to Microsoft on Windows
 Microsoft.WindowsMaps                          # Mapping and navigation app
@@ -40,7 +40,7 @@ Microsoft.ZuneVideo                            # Movies & TV app for renting/buy
 MicrosoftCorporationII.MicrosoftFamily         # Family Safety App for managing family accounts and settings
 MicrosoftCorporationII.QuickAssist             # Remote assistance tool
 MicrosoftTeams                                 # Old MS Teams personal (MS Store version)
-MSTeams                                        # New MS Teams app (Work/School or Personal)
+#MSTeams                                        # New MS Teams app (Work/School or Personal)
 
 ACGMediaPlayer                                 # Media player app
 ActiproSoftwareLLC                             # Potentially UI controls or software components, often bundled by OEMs
